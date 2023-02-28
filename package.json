@@ -1,11 +1,11 @@
 {
-  "name": "project-team-9",
+  "name": "curr",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team-9/",
+    "build": "vite build --base=/curr/",
     "preview": "vite preview"
   },
   "devDependencies": {
